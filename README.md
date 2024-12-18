@@ -9,7 +9,8 @@ Welcome to the BERT Chatbot project! This project uses the BERT (Bidirectional E
 - **Customizable Responses**: You can easily update or add new questions and responses to the chatbot.
 
 ## Demo 🎥
-Try out the chatbot live by visiting [Local URL: http://localhost:8501]
+Try out the chatbot live by visiting [Demo Link](http://192.168.1.22:8501.streamlitapp.com).
+
 
 ## Requirements 📋
 
@@ -22,7 +23,11 @@ To run the project locally, you need the following libraries:
 
 ### Install Dependencies
 
-1. Clone the repository:
+ Run the Streamlit app:
    ```bash
-   git clone https://github.com/your-username/bert-chatbot.git
-   cd bert-chatbot
+   streamlit run app.py
+
+## Demo 🎥
+Try out the chatbot live by visiting [Demo Link](http://192.168.1.22:8501.streamlitapp.com).
+
+
