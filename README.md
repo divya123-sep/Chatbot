@@ -8,10 +8,6 @@ Welcome to the BERT Chatbot project! This project uses the BERT (Bidirectional E
 - **Cosine Similarity**: The chatbot compares the user input with predefined questions to find the most relevant response.
 - **Customizable Responses**: You can easily update or add new questions and responses to the chatbot.
 
-## Demo 🎥
-Try out the chatbot live by visiting [Demo Link](http://192.168.1.22:8501.streamlitapp.com).
-
-
 ## Requirements 📋
 
 To run the project locally, you need the following libraries:
@@ -21,13 +17,14 @@ To run the project locally, you need the following libraries:
 - `torch` – for running the BERT model
 - `scikit-learn` – for cosine similarity computation
 
+  ## Demo 🎥
+Try out the chatbot live by visiting [Demo Link](http://192.168.1.22:8501.streamlitapp.com).
+
 ### Install Dependencies
 
  Run the Streamlit app:
    ```bash
    streamlit run app.py
 
-## Demo 🎥
-Try out the chatbot live by visiting [Demo Link](http://192.168.1.22:8501.streamlitapp.com).
 
 
