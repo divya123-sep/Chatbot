@@ -18,7 +18,7 @@ To run the project locally, you need the following libraries:
 - `scikit-learn` – for cosine similarity computation
 
   ## Demo 🎥
-Try out the chatbot live by visiting [Demo Link](http://192.168.1.22:8501.streamlitapp.com).
+Try out the chatbot live by visiting [Demo Link]([http://localhost:8501.streamlitapp.com).
 
 ### Install Dependencies
 
